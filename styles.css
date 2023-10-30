@@ -1,2 +1,16 @@
-body { 
-  background-color:  rgb(156, 234, 22) 
+body {
+    background-color: rgb(156, 234, 22);
+}
+
+h1 {
+    text-align: center;
+}
+
+.head1 {
+    background-color: cadetblue;
+}
+
+#head2 {
+    background-color: blueviolet;
+    color: burlywood;
+}
