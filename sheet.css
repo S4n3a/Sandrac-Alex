@@ -1,1 +1,17 @@
+body {
+    background-color: light blue;
+}
 
+h1 {
+    color: purple;
+    text-decoration: line-trough;
+}
+
+.head1 {
+    background-color: cadetblue;
+}
+
+#head2 {
+    background-color: blueviolet;
+    color: burlywood;
+}
