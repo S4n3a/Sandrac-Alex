@@ -1,5 +1,6 @@
-<head style="background-color:beige">
-</head>
+body {
+    background-color: beige;
+}
 h1 {
     color: blue;
     text-decoration: line-through;
